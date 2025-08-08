@@ -2,19 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://rosewrites.me/posts/my-first-post/</loc>
+    <loc>https://rosewrites.github.me/rosewrites/posts/my-first-post/</loc>
     <lastmod>2025-08-08T10:00:00+05:45</lastmod>
   </url><url>
-    <loc>https://rosewrites.me/posts/</loc>
+    <loc>https://rosewrites.github.me/rosewrites/posts/</loc>
     <lastmod>2025-08-08T10:00:00+05:45</lastmod>
   </url><url>
-    <loc>https://rosewrites.me/</loc>
+    <loc>https://rosewrites.github.me/rosewrites/</loc>
     <lastmod>2025-08-08T10:00:00+05:45</lastmod>
   </url><url>
-    <loc>https://rosewrites.me/about/</loc>
+    <loc>https://rosewrites.github.me/rosewrites/about/</loc>
   </url><url>
-    <loc>https://rosewrites.me/categories/</loc>
+    <loc>https://rosewrites.github.me/rosewrites/categories/</loc>
   </url><url>
-    <loc>https://rosewrites.me/tags/</loc>
+    <loc>https://rosewrites.github.me/rosewrites/tags/</loc>
   </url>
 </urlset>
