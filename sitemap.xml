@@ -2,23 +2,99 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://rosewrites.me/posts/my-first-post/</loc>
-    <lastmod>2025-08-08T10:00:00+05:45</lastmod>
-  </url><url>
-    <loc>https://rosewrites.me/posts/</loc>
-    <lastmod>2025-08-08T10:00:00+05:45</lastmod>
-  </url><url>
-    <loc>https://rosewrites.me/</loc>
-    <lastmod>2025-08-08T10:00:00+05:45</lastmod>
+    <loc>https://rosewrites.me/posts/focus/</loc>
+    <lastmod>2025-08-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rosewrites.me/about/</loc>
-  </url><url>
-    <loc>https://rosewrites.me/archives/</loc>
+    <lastmod>2025-08-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rosewrites.me/categories/</loc>
+    <lastmod>2025-08-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rosewrites.me/contact/</loc>
+    <lastmod>2025-08-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rosewrites.me/categories/deep-work/</loc>
+    <lastmod>2025-08-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rosewrites.me/tags/deep-work/</loc>
+    <lastmod>2025-08-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rosewrites.me/categories/digital-minimalism/</loc>
+    <lastmod>2025-08-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rosewrites.me/posts/digital-minimalism/</loc>
+    <lastmod>2025-08-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rosewrites.me/tags/efficiency/</loc>
+    <lastmod>2025-08-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rosewrites.me/tags/flow/</loc>
+    <lastmod>2025-08-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rosewrites.me/tags/focus/</loc>
+    <lastmod>2025-08-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rosewrites.me/tags/habits/</loc>
+    <lastmod>2025-08-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rosewrites.me/</loc>
+    <lastmod>2025-08-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rosewrites.me/tags/journaling/</loc>
+    <lastmod>2025-08-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rosewrites.me/categories/journaling--mindfulness/</loc>
+    <lastmod>2025-08-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rosewrites.me/tags/minimalism/</loc>
+    <lastmod>2025-08-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rosewrites.me/posts/morning-pages/</loc>
+    <lastmod>2025-08-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rosewrites.me/tags/morning-routine/</loc>
+    <lastmod>2025-08-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rosewrites.me/tags/planning/</loc>
+    <lastmod>2025-08-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rosewrites.me/posts/</loc>
+    <lastmod>2025-08-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rosewrites.me/categories/productivity/</loc>
+    <lastmod>2025-08-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rosewrites.me/categories/productivity-systems/</loc>
+    <lastmod>2025-08-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rosewrites.me/tags/</loc>
+    <lastmod>2025-08-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rosewrites.me/tags/time-blocking/</loc>
+    <lastmod>2025-08-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rosewrites.me/posts/time-blocking/</loc>
+    <lastmod>2025-08-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rosewrites.me/tags/tools/</loc>
+    <lastmod>2025-08-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rosewrites.me/posts/deepwork-superpower/</loc>
+    <lastmod>2025-08-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rosewrites.me/tags/writing/</loc>
+    <lastmod>2025-08-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rosewrites.me/tags/productivity/</loc>
+    <lastmod>2025-08-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rosewrites.me/tags/welcome/</loc>
+    <lastmod>2025-08-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rosewrites.me/posts/my-first-post/</loc>
+    <lastmod>2025-08-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rosewrites.me/archives/</loc>
   </url>
 </urlset>

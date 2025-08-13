@@ -6,14 +6,49 @@
     <description>Recent content in Posts on RoseWrites</description>
     <generator>Hugo -- 0.148.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 Aug 2025 10:00:00 +0545</lastBuildDate>
+    <lastBuildDate>Wed, 13 Aug 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://rosewrites.me/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
+      <title>10 Writing Habits to Supercharge Your Focus</title>
+      <link>https://rosewrites.me/posts/focus/</link>
+      <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://rosewrites.me/posts/focus/</guid>
+      <description>Boost your focus and productivity with these 10 effective writing habits.</description>
+    </item>
+    <item>
+      <title>Digital Minimalism for Creators</title>
+      <link>https://rosewrites.me/posts/digital-minimalism/</link>
+      <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://rosewrites.me/posts/digital-minimalism/</guid>
+      <description>Cut distractions and focus on what truly matters in your creative work.</description>
+    </item>
+    <item>
+      <title>Morning Pages: Clear Your Mind Before Work</title>
+      <link>https://rosewrites.me/posts/morning-pages/</link>
+      <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://rosewrites.me/posts/morning-pages/</guid>
+      <description>Learn how morning pages can help you start your day with clarity and focus.</description>
+    </item>
+    <item>
+      <title>Time Blocking: Maximize Your Efficiency</title>
+      <link>https://rosewrites.me/posts/time-blocking/</link>
+      <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://rosewrites.me/posts/time-blocking/</guid>
+      <description>Learn how to organize your day using time blocks for maximum productivity.</description>
+    </item>
+    <item>
+      <title>Why Deep Work is the New Superpower</title>
+      <link>https://rosewrites.me/posts/deepwork-superpower/</link>
+      <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://rosewrites.me/posts/deepwork-superpower/</guid>
+      <description>Discover why mastering deep work can transform your productivity and creativity.</description>
+    </item>
+    <item>
+      <title>Welcome to RoseWrite</title>
       <link>https://rosewrites.me/posts/my-first-post/</link>
-      <pubDate>Fri, 08 Aug 2025 10:00:00 +0545</pubDate>
+      <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
       <guid>https://rosewrites.me/posts/my-first-post/</guid>
-      <description>&lt;p&gt;Welcome to my blog Rose Writes! 🌹&lt;/p&gt;</description>
+      <description>Start your journey to better focus, productivity, and mindful journaling with RoseWrite.</description>
     </item>
   </channel>
 </rss>
