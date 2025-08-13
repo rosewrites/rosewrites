@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Welcome on RoseWrites</title>
     <link>https://rosewrites.me/tags/welcome/</link>
     <description>Recent content in Welcome on RoseWrites</description>
-    <generator>Hugo -- 0.148.2</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 12 Aug 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://rosewrites.me/tags/welcome/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,7 @@
       <link>https://rosewrites.me/posts/my-first-post/</link>
       <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
       <guid>https://rosewrites.me/posts/my-first-post/</guid>
-      <description>Start your journey to better focus, productivity, and mindful journaling with RoseWrite.</description>
+      <description>&lt;h1 id=&#34;welcome-to-rosewrite&#34;&gt;Welcome to RoseWrite&lt;/h1&gt;&#xA;&lt;p&gt;Hello and welcome! 🎉&lt;/p&gt;&#xA;&lt;p&gt;RoseWrite is your &lt;strong&gt;space to explore deep work, productivity, and mindful journaling&lt;/strong&gt;. Whether you’re a writer, creator, or entrepreneur, this blog is designed to help you &lt;strong&gt;focus better, create more, and live intentionally&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Here’s what you can expect:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Actionable Tips:&lt;/strong&gt; Simple strategies you can apply today to boost focus.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Guides &amp;amp; Templates:&lt;/strong&gt; Journaling exercises, planners, and productivity systems.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Tools &amp;amp; Resources:&lt;/strong&gt; Recommendations for apps, books, and digital tools.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;I created RoseWrite to &lt;strong&gt;help you master the art of focused work&lt;/strong&gt; while keeping life balanced. Start exploring, pick a post that speaks to you, and join the newsletter for weekly productivity insights.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

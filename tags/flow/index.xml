@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Flow on RoseWrites</title>
     <link>https://rosewrites.me/tags/flow/</link>
     <description>Recent content in Flow on RoseWrites</description>
-    <generator>Hugo -- 0.148.2</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 13 Aug 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://rosewrites.me/tags/flow/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,7 @@
       <link>https://rosewrites.me/posts/deepwork-superpower/</link>
       <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
       <guid>https://rosewrites.me/posts/deepwork-superpower/</guid>
-      <description>Discover why mastering deep work can transform your productivity and creativity.</description>
+      <description>&lt;h1 id=&#34;why-deep-work-is-the-new-superpower&#34;&gt;Why Deep Work is the New Superpower&lt;/h1&gt;&#xA;&lt;p&gt;In today’s world of constant distractions, the ability to &lt;strong&gt;focus deeply on important tasks&lt;/strong&gt; is rare—and incredibly valuable.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-is-deep-work&#34;&gt;What is Deep Work?&lt;/h2&gt;&#xA;&lt;p&gt;Deep work is &lt;strong&gt;uninterrupted, focused work that produces high-value results&lt;/strong&gt;. It’s the opposite of shallow work like checking emails or scrolling social media.&lt;/p&gt;&#xA;&lt;h2 id=&#34;benefits-of-deep-work&#34;&gt;Benefits of Deep Work&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Higher productivity:&lt;/strong&gt; Get more done in less time.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Better skill development:&lt;/strong&gt; Complex skills require deep focus.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Creative breakthroughs:&lt;/strong&gt; Flow states unlock ideas you can’t get in distracted work.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;how-to-start&#34;&gt;How to Start&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Block 60–90 minute focus sessions daily.&lt;/li&gt;&#xA;&lt;li&gt;Eliminate distractions: phone, notifications, social media.&lt;/li&gt;&#xA;&lt;li&gt;Plan tasks with clear outcomes for each session.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&#xA;  &lt;blockquote&#xA;    class=&#34;border-primary bg-muted/30 hover:bg-muted/40 my-6 rounded-r-lg border-l-4 py-4 pr-4 pl-6 italic transition-all duration-200 ease-out hover:translate-x-1&#34;&gt;&#xA;    &lt;div class=&#34;prose prose-sm max-w-none&#34;&gt;&#xA;      &lt;p&gt;“Clarity about what matters is the foundation of focus.”&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
